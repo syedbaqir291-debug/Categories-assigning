@@ -3,7 +3,7 @@ import pandas as pd
 import re
 from io import BytesIO
 
-st.title("Cancer Disease Categorization App")
+st.title("Cancer Disease Categorization App - OMAC Developer")
 st.write("Upload an Excel file → Select Sheet → Select Disease Column → Get Categorized Output")
 
 # -----------------------------
